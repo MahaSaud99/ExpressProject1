@@ -1,19 +1,19 @@
 export interface People{
-  id:String,
-  name:String
+  id:string,
+  name:string
 }
 
 export interface Grade{
-  id:String,
-  name:String,
-  grade:String
+  id:string,
+  name:string,
+  grade:string
 }
 
 export interface Task{
-    id:String,
-    title:String,
-    description:String,
-    status:String
+    id:string,
+    title:string,
+    description:string,
+    status:string
 }
 
 
